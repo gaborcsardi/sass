@@ -1,6 +1,7 @@
 #ifndef COMPILE_H
 #define COMPILE_H
 
+#include <R.h>
 #include <Rinternals.h>
 
 #ifdef __cplusplus
